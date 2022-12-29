@@ -1,1 +1,1 @@
-
+This folder includes all the projects and test code which was made in the Rospinot Club by Group 5 of First Year (2022 - 2026) batch.
